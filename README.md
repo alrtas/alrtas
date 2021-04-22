@@ -11,4 +11,3 @@
 - 🤔 Sempre com dúvidas sobre melhores práticas para desenvolvimento de software...
 - 💬 Me pergunte sobre ChatBots
 - 📫 Me encontre em: alrrtas@gmail.com
-
