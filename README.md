@@ -17,7 +17,6 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-alrtas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alrtas/)](https://www.linkedin.com/in/alrtas/)
-[![Instagram Badge](https://img.shields.io/badge/-roshanjayraj-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/roshanjayraj/)
-[![Website Badge](https://img.shields.io/badge/-jayraj.co.in-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://jayraj.co.in/)](https://jayraj.co.in/)
-[![Gmail Badge](https://img.shields.io/badge/-mail@jayraj.co.in-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:mail@jayraj.co.in)
+[![Instagram Badge](https://img.shields.io/badge/-alrtas-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alrtas/)](https://www.instagram.com/alrtas/)
+[![Gmail Badge](https://img.shields.io/badge/-mail@alrrtas@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@alrrtas@gmail.com)](mailto:mail@alrrtas@gmail.com)
 
