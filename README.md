@@ -13,7 +13,7 @@ Feel free to contact me to chat
    - 392,245 unique customers impacted by the chatbot
    - 28,374,005 of messages trafficked during the period in which I was in charge of the project
    - 96% customer satisfaction with 100% automated service
-   - More than BRL 400.000,00 in savings 
+   - More than BRL ***.****,00 in savings 
 
  - more than 2 years of experience in developing integrations between the chatbot application and legacy systems where there were no apis, using the WSO2 stack to create and openshift the deploy, always following REST standards for creating the APIs as well as maintenance and improvement remains the same
 
