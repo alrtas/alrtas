@@ -10,8 +10,8 @@ Feel free to contact me to chat
 
 ## 🔭 Experience 🔭
  - 2+ years of experience in developing solutions for chatbots using javascript as the main development stack, but also with independent python projects, always applying the best nielsen heuristics to our robots, as well as development practices such as applying SOLID principles, better practices for conversational robot architecture, artificial intelligence with facebook WIT.AI
-   - 375,000 unique customers impacted by the chatbot
-   - 27,820,980 of messages trafficked during the period in which I was in charge of the project
+   - 392,245 unique customers impacted by the chatbot
+   - 28,374,005 of messages trafficked during the period in which I was in charge of the project
    - 96% customer satisfaction with 100% automated service
    - More than BRL 400.000,00 in savings 
 
