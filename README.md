@@ -4,19 +4,23 @@
 **alrtas/alrtas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+## 📫 Contacts 📫
+ - [![Linkedin Badge](https://img.shields.io/badge/-alrtas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alrtas/)](https://www.linkedin.com/in/alrtas/)
+ - [![Instagram Badge](https://img.shields.io/badge/-alrtas-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alrtas/)](https://www.instagram.com/alrtas/)
+ - [![Gmail Badge](https://img.shields.io/badge/-alrrtas@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alrrtas@gmail.com)](mailto:alrrtas@gmail.com)
 
-<!--![Metrics](https://metrics.lecoq.io/alrtas?template=classic&introduction=1&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=true&config.timezone=America%2FSao_Paulo)-->
+## 🔭 Experience 🔭
+ - 2+ years of experience in developing solutions for chatbots using javascript as the main development stack, but also with independent python projects, always applying the best nielsen heuristics to our robots, as well as development practices such as applying SOLID principles, better practices for conversational robot architecture, artificial intelligence with facebook WIT.AI
+   - 375,000 unique customers impacted by the chatbot
+   - 27,820,980 of messages trafficked during the period in which I was in charge of the project
+   - 96% customer satisfaction with 100% automated service
+   - More than BRL 400.000,00 in savings 
 
-- 🔭 Atualmente trabalhando com construção de ChatBots <i>(Js e NLP)</i> e Aplicações Web <i>(PHP, Go, Js, React, BootStrap)</i>, REST APIs <i>(PHP, Python)</i>, Automatizações <i>(Python)</i>, Banco de dados relacionais <i>(MySQL, PostGres)</i> na Intelbras...
-- 🌱 Atualmente aprendendo sobre Machine Learning...
-- 👯 Procurando colaborar em projetos OpenSource ...
-- 🤔 Sempre com dúvidas sobre melhores práticas para desenvolvimento de software...
-- 💬 Me pergunte sobre ChatBots
-- 📫 Me encontre em: alrrtas@gmail.com
+ - more than 2 years of experience in developing integrations between the chatbot application and legacy systems where there were no apis, using the WSO2 stack to create and openshift the deploy, always following REST standards for creating the APIs as well as maintenance and improvement remains the same
+
+ - Over 5 years in the customer service area working as a support analyst to a specialist in the business networks area, focusing on providing the best possible experience while solving highly complex problems
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-alrtas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alrtas/)](https://www.linkedin.com/in/alrtas/)
-[![Instagram Badge](https://img.shields.io/badge/-alrtas-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alrtas/)](https://www.instagram.com/alrtas/)
-[![Gmail Badge](https://img.shields.io/badge/-alrrtas@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alrrtas@gmail.com)](mailto:alrrtas@gmail.com)
-
+### Some cool metrics
+![Metrics](https://metrics.lecoq.io/alrtas?template=classic&habits=1&languages=1&followup=1&lines=1&achievements=1&notable=1&people=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FSao_Paulo)
