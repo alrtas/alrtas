@@ -1,8 +1,7 @@
-### Oi Time 👋
+## 🤖 Intro 🤖
+My name is Thiago, 23 years old, enthusiast in technology and clean development, currently working in the area of chatbots with and without NLP, with great experience in the area of customer relationship and also in the creation of independent projects using the web using MERN stack among others...
+Feel free to contact me to chat
 
-<!--
-**alrtas/alrtas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 ## 📫 Contacts 📫
  - [![Linkedin Badge](https://img.shields.io/badge/-alrtas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alrtas/)](https://www.linkedin.com/in/alrtas/)
@@ -22,5 +21,5 @@
 
 
 
-### Some cool metrics
+## 📈  Some cool metrics 📈 
 ![Metrics](https://metrics.lecoq.io/alrtas?template=classic&habits=1&languages=1&followup=1&lines=1&achievements=1&notable=1&people=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FSao_Paulo)
