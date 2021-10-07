@@ -1,5 +1,5 @@
 ## 🤖 Intro 🤖
-My name is Thiago, 23 years old, enthusiast in technology and clean development, currently working in the area of chatbots with and without NLP, with great experience in the area of customer relationship and also in the creation of independent projects using the web using MERN stack among others...
+My name is Thiago, 24 years old, enthusiast in technology and clean development, currently working in the area of chatbots with and without NLP, with great experience in the area of customer relationship and also in the creation of independent projects using the web using MERN stack among others...
 Feel free to contact me to chat
 
 
@@ -9,7 +9,7 @@ Feel free to contact me to chat
  - [![Gmail Badge](https://img.shields.io/badge/-alrrtas@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alrrtas@gmail.com)](mailto:alrrtas@gmail.com)
 
 ## 🔭 Experience 🔭
- - 2+ years of experience in developing solutions for chatbots using javascript as the main development stack, but also with independent python projects, always applying the best nielsen heuristics to our robots, as well as development practices such as applying SOLID principles, better practices for conversational robot architecture, artificial intelligence with facebook WIT.AI
+ - 3+ years of experience in developing solutions for chatbots using javascript as the main development stack, but also with independent python projects, always applying the best nielsen heuristics to our robots, as well as development practices such as applying SOLID principles, better practices for conversational robot architecture, artificial intelligence with facebook WIT.AI
    - 392,245 unique customers impacted by the chatbot
    - 28,374,005 of messages trafficked during the period in which I was in charge of the project
    - 96% customer satisfaction with 100% automated service
