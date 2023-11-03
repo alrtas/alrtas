@@ -1,6 +1,6 @@
-## 🤖 Intro 🤖
-My name is Thiago, 24 years old, enthusiast in technology and clean development, currently working in the area of chatbots with and without NLP, with great experience in the area of customer relationship and also in the creation of independent projects using the web using MERN stack among others...
-Feel free to contact me to chat
+## Intro
+
+Hey, I'm making virtual agents, playing aroung with ML, LLM and Data related content 
 
 
 ## 📫 Contacts 📫
